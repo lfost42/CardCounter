@@ -38,13 +38,15 @@ Add multiple deck option.
 ## DATA DESIGN
 
 Playing Card
-	suit - int
+	
+	- suit - int
 
-	value - int
+	- value - int
 
 Records
-	Game - str
 
-	Winner - str
+	- Game - str
 
-	Date - datetime
+	- Winner - str
+
+	- Date - datetime
