@@ -39,9 +39,12 @@ Add multiple deck option.
 
 Playing Card
 	suit - int
+
 	value - int
 
 Records
 	Game - str
+
 	Winner - str
+
 	Date - datetime
