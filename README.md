@@ -50,3 +50,11 @@ Records
 	- Winner - str
 
 	- Date - datetime
+
+	- WinsCount - int
+
+	- LossCount - int
+
+PostgreSQL
+
+
