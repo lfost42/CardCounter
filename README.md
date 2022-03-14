@@ -39,22 +39,22 @@ Add multiple deck option.
 
 Playing Card
 	
-	- suit - int
+- suit - int
 
-	- value - int
+- value - int
 
 Records
 
-	- Game - str
+- Game - str
 
-	- Winner - str
+- Winner - str
 
-	- Date - datetime
+- Date - datetime
 
-	- WinsCount - int
+- WinsCount - int
 
-	- LossCount - int
+- LossCount - int
 
-PostgreSQL
+PostgreSQL to CSV?
 
 
